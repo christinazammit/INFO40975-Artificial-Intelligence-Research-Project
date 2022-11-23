@@ -1,6 +1,7 @@
-# INFO40975-Artificial-Intelligence-Research-Project
+# INFO40975 Artificial Intelligence 
+## Research-Project
 
-## Abstract
+###### Abstract
 PyCaret is used to automate workflows in machine learning and utilizes low-code libraries 
 to execute a number of processes in just a few lines of code. PyCaret was used to ultimately 
 find the answer, “Has the client subscribed to a term deposit?” when exploring the Bank Marketing
